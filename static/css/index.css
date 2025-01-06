@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=VT323&display=swap');
+@import "./node_modules/nes.css/css/nes.css";
+
+html, body, pre, code, kbd, samp {
+    font-family: "VT323", serif;
+}
+
+.back {
+    background-color:bisque;
+    background-image: url(../images/8-bit-retro-game-background-free-vector.jpg );
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    background-size: 130%;
+}
+
+
+
+.parent {
+    display: flex;
+    width: 800px;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.PotParent {
+    margin-top: 120px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+
+}
+
+
+
+.moneta {
+    margin: 10px;
+    background-color: grey;
+    width: 100px;
+    height: 80px;
+    border-radius: 50px;
+    border-color: black;
+    border: 10px;
+}
+
+.open {
+    background-color: red;
+}
+
+.title {
+    text-align: center;
+    font-family: "VT323", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    margin-bottom: 20px;
+}
+
+#subtitle {
+    text-align: center;
+    font-family: "VT323", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+}
+
+.position {
+    text-align: center;
+}
+
+#butt {
+
+    font-size: 24px;
+    font-family: "VT323", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    padding: 12px 102px;
+    border-radius: 12px;
+    border-color: 2px solid #CCFFC5;
+    margin-bottom: 18px;
+}
+
+.PotGatto{
+    margin-left: 460px;
+    
+    
+   
+}
+
