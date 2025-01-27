@@ -19,7 +19,7 @@ html, body, pre, code, kbd, samp {
 
 .parent {
     display: flex;
-    width: 800px;
+    width: 1300px;
     flex-wrap: wrap;
     justify-content: center;
     text-align: center;
@@ -38,17 +38,19 @@ html, body, pre, code, kbd, samp {
 
 
 .moneta {
+    background-image: url(../images/Screenshot\ 2025-01-13\ 082812.png);
     margin: 10px;
     background-color: grey;
-    width: 100px;
-    height: 80px;
-    border-radius: 50px;
+    width: 180px;
+    height: 180px;
     border-color: black;
     border: 10px;
 }
 
 .open {
-    background-color: red;
+    background-image:url(../images/200px-Sito-Nintendo-JP-Blocco-interrogativo.png);
+    width: 200px;
+    height: 185px;
 }
 
 .title {
